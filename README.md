@@ -12,8 +12,8 @@ https://beggsaj.github.io/challenge-assignment-1/
 
 ## Images
 
-![image](https://user-images.githubusercontent.com/91335294/137538999-2569363a-e354-4c46-b484-81133476aa35.png)
-![image](https://user-images.githubusercontent.com/91335294/137539062-83b4cf97-39a2-4052-a6eb-bb5782418758.png)
+![image](https://user-images.githubusercontent.com/91335294/138598652-905d39dc-a3c7-48ef-81d9-ffd413f50d90.png)
+![image](https://user-images.githubusercontent.com/91335294/138598676-2cc6dee5-c53a-433f-8e88-4523b0863c55.png)
 
 
 ## Contribution
